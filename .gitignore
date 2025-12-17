@@ -30,3 +30,4 @@ optuna_feature_search.db
 mlruns
 
 MLOps
+data_processed

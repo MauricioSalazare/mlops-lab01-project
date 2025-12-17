@@ -28,3 +28,5 @@ mlflow.db
 optuna_feature_search.db
 .python-version
 mlruns
+
+MLOps

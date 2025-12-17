@@ -15,4 +15,4 @@ jobs:
       - run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - run: python sc_lab01.py
+      - run: python sc_lab01_hl.py
